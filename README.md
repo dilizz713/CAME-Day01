@@ -5,7 +5,7 @@ This is a **python** simpel program.
 ## Setup Instructions
 1. Clone the repository
 ```bash
-
+https://github.com/dilizz713/CAME-Day01.git
 ```
 
 2. Run the program
